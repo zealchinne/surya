@@ -1,0 +1,60 @@
+total 9116
+drwxr-xr-x 1 dell 197121       0 Aug 20  2016 Tracing/
+drwxr-xr-x 1 dell 197121       0 Nov 18  2016 .oracle_jre_usage/
+drwxr-xr-x 1 dell 197121       0 Mar  9  2017 bin/
+drwxr-xr-x 1 dell 197121       0 Mar 10  2017 .docker/
+drwxr-xr-x 1 dell 197121       0 Mar 10  2017 mydockerbuild/
+-rw-r--r-- 1 dell 197121      24 Mar 11  2017 Dockerfile
+drwxr-xr-x 1 dell 197121       0 Mar 11  2017 .vim/
+drwxr-xr-x 1 dell 197121       0 Mar 12  2017 test/
+drwxr-xr-x 1 dell 197121       0 Mar 19  2017 samplesbi/
+drwxr-xr-x 1 dell 197121       0 Sep 30  2017 .ssh/
+drwxr-xr-x 1 dell 197121       0 Jan 24  2018 .idlerc/
+drwxr-xr-x 1 dell 197121       0 Mar 10  2018 .PyCharmCE2017.3/
+drwxr-xr-x 1 dell 197121       0 Apr 30  2018 MicrosoftEdgeBackups/
+lrwxrwxrwx 1 dell 197121      23 Nov  7 17:59 My Documents -> /c/Users/dell/Documents/
+lrwxrwxrwx 1 dell 197121      65 Nov  7 17:59 PrintHood -> /c/Users/dell/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 dell 197121      65 Nov  7 17:59 NetHood -> /c/Users/dell/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+lrwxrwxrwx 1 dell 197121      29 Nov  7 17:59 Application Data -> /c/Users/dell/AppData/Roaming/
+lrwxrwxrwx 1 dell 197121      54 Nov  7 17:59 SendTo -> /c/Users/dell/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 dell 197121      54 Nov  7 17:59 Recent -> /c/Users/dell/AppData/Roaming/Microsoft/Windows/Recent/
+lrwxrwxrwx 1 dell 197121      57 Nov  7 17:59 Templates -> /c/Users/dell/AppData/Roaming/Microsoft/Windows/Templates/
+lrwxrwxrwx 1 dell 197121      58 Nov  7 17:59 Start Menu -> /c/Users/dell/AppData/Roaming/Microsoft/Windows/Start Menu/
+lrwxrwxrwx 1 dell 197121      27 Nov  7 17:59 Local Settings -> /c/Users/dell/AppData/Local/
+lrwxrwxrwx 1 dell 197121      57 Nov  7 17:59 Cookies -> /c/Users/dell/AppData/Local/Microsoft/Windows/INetCookies/
+-rw-r--r-- 1 dell 197121  524288 Nov  7 17:59 ntuser.dat.LOG2
+-rw-r--r-- 1 dell 197121 1409024 Nov  7 17:59 ntuser.dat.LOG1
+-rw-r--r-- 1 dell 197121  524288 Nov  7 17:59 NTUSER.DAT{e53e7984-e274-11e8-8adb-74e6e22913cb}.TMContainer00000000000000000002.regtrans-ms
+drwxr-xr-x 1 dell 197121       0 Nov  7 18:10 AppData/
+-rw-r--r-- 1 dell 197121      20 Nov  7 18:26 ntuser.ini
+drwxr-xr-x 1 dell 197121       0 Nov  7 19:17 .chef/
+drwxr-xr-x 1 dell 197121       0 Feb  2 16:34 kushal/
+drwxr-xr-x 1 dell 197121       0 Feb  7 01:36 VirtualBox VMs/
+drwxr-xr-x 1 dell 197121       0 Feb  7 02:09 3D Objects/
+drwxr-xr-x 1 dell 197121       0 Feb  7 02:09 Contacts/
+drwxr-xr-x 1 dell 197121       0 Feb  7 02:09 Pictures/
+drwxr-xr-x 1 dell 197121       0 Feb  7 02:09 Favorites/
+drwxr-xr-x 1 dell 197121       0 Feb  7 02:09 Videos/
+drwxr-xr-x 1 dell 197121       0 Feb  7 02:09 Searches/
+drwxr-xr-x 1 dell 197121       0 Feb  7 02:09 Music/
+drwxr-xr-x 1 dell 197121       0 Feb  7 02:09 Saved Games/
+drwxr-xr-x 1 dell 197121       0 Feb  7 02:09 Links/
+drwxr-xr-x 1 dell 197121       0 Feb  9 20:53 OneDrive/
+-rw-r--r-- 1 dell 197121  524288 Feb 18 08:45 NTUSER.DAT{e53e7984-e274-11e8-8adb-74e6e22913cb}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 dell 197121   65536 Feb 18 08:45 NTUSER.DAT{e53e7984-e274-11e8-8adb-74e6e22913cb}.TM.blf
+drwxr-xr-x 1 dell 197121       0 Feb 18 19:35 .m2/
+drwxr-xr-x 1 dell 197121       0 Feb 20 02:09 .sonar/
+drwxr-xr-x 1 dell 197121       0 Feb 20 06:03 ../
+drwxr-xr-x 1 dell 197121       0 Feb 21 07:53 Documents/
+drwxr-xr-x 1 dell 197121       0 Feb 21 19:18 Downloads/
+drwxr-xr-x 1 dell 197121       0 Feb 22 10:26 .VirtualBox/
+-rw-r--r-- 1 dell 197121     204 Feb 22 10:56 .gitconfig
+-rw-r--r-- 1 dell 197121    9060 Feb 22 11:33 .viminfo
+-rw-r--r-- 1 dell 197121    6724 Feb 22 18:26 .bash_history
+-rw-r--r-- 1 dell 197121 6029312 Feb 22 20:27 NTUSER.DAT
+drwxr-xr-x 1 dell 197121       0 Feb 22 20:45 IntelGraphicsProfiles/
+drwxr-xr-x 1 dell 197121       0 Feb 22 20:49 Dropbox/
+drwxr-xr-x 1 dell 197121       0 Feb 22 21:02 Desktop/
+-rw-r--r-- 1 dell 197121     717 Feb 22 22:34 myself
+-rw-r--r-- 1 dell 197121       0 Feb 22 22:40 raju.txt
+drwxr-xr-x 1 dell 197121       0 Feb 22 22:40 ./
